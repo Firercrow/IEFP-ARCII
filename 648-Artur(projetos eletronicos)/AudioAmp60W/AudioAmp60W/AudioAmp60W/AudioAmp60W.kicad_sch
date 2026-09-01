@@ -6218,7 +6218,7 @@
 			)
 		)
 		(property "Value" "BC550"
-			(at 119.634 121.158 0)
+			(at 117.602 121.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9602,7 +9602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "in"
+		(property "Value" "out"
 			(at 254 101.5999 0)
 			(effects
 				(font
